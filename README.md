@@ -15,6 +15,7 @@ icons better show each ingredient's primary and secondary components
 
 INSTALLATION
 
+Download the alchemy-ingredient-icons.zip file and unzip it.
 Copy the extracted "Override" folder into the "Data" folder
 of your The Witcher install folder.
 
