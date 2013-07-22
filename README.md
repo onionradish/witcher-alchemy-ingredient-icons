@@ -11,6 +11,8 @@ mixing by updating the inventory icons for alchemy ingredients. Inventory
 icons better show each ingredient's primary and secondary components
 (if any), without needing to mouse-over the ingredient. 
 
+See preview.jpg for screenshot.
+
 
 
 Installation
